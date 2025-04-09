@@ -34,7 +34,7 @@ It's also a great template to build on if you're working on your own reporting s
 # 🧪 How to Use
 **1.Clone or Download the Repo**
 
-git clone https://github.com/your-username/web-analytics-dashboard.git
+git clone https://github.com/sweta42/web-analytics-dashboard.git
 
 **2.Open in Power BI Desktop**
 Make sure you have Power BI Desktop installed (it’s free!).
